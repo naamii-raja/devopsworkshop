@@ -10,3 +10,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4  
+      - name: Barani CI/CD
+        run:
+            echo "We are Learning About Devop's Today"
